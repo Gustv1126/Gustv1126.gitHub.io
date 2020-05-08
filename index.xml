@@ -6,46 +6,75 @@
     <description>Recent content on Gustv blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>[002] Vue</title>
+      <link>/blog/2020-05-08-vue001/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-05-08-vue001/</guid>
+      <description>&lt;p&gt;Vue에 대한 간단한 소개와 프로젝트 생성 방법 및 구조 설명&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[003] Spring</title>
+      <link>/blog/2020-05-08-spring001/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-05-08-spring001/</guid>
+      <description>&lt;p&gt;String boot 로 서버 만들기&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[004] JavaScript</title>
+      <link>/blog/2020-05-08-javascript001/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-05-08-javascript001/</guid>
+      <description>&lt;p&gt;Hugo 를 이용해 깃허브 블로그를 만드는게 이렇게 어려울줄은 상상도 못했다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>[005] Hugo</title>
+      <link>/blog/2020-05-08-hugo001/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-05-08-hugo001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[006] DataBase</title>
+      <link>/blog/2020-05-08-database001/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-05-08-database001/</guid>
+      <description>&lt;p&gt;Hugo 를 이용해 깃허브 블로그를 만드는게 이렇게 어려울줄은 상상도 못했다.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>[001] 블로그 첫 글</title>
-      <link>/blog/2020-05-07-001-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91/</link>
+      <link>/blog/2020-05-07-sidestory001/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020-05-07-001-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91/</guid>
+      <guid>/blog/2020-05-07-sidestory001/</guid>
       <description>&lt;p&gt;Hugo 를 이용해 깃허브 블로그를 만드는게 이렇게 어려울줄은 상상도 못했다.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>테스트 글</title>
-      <link>/blog/rich-content/</link>
+      <link>/blog/test/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>/blog/test/</guid>
+      <description>&lt;p&gt;글 내용의 핵심 요약 한줄이 들어간다. 여러줄이 들어가도 되지만 되도록이면 두줄에서 세줄정도 들어가면 굉장히 있어보일거 같다. 그렇게 만들어진 블로그. 
+하지만 이렇게 내용을 나누어서 적으면 뭔가 달라질거라고 믿는데 &lt;br&gt;
+줄바꾸기도 먹힌다.
+볼드체도 먹히나? &lt;strong&gt;야옹이&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

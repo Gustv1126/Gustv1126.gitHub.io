@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vue on Gustv blog</title>
+    <link>/categories/vue/</link>
+    <description>Recent content in Vue on Gustv blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/vue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[002] Vue</title>
+      <link>/blog/2020-05-08-vue001/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-05-08-vue001/</guid>
+      <description>&lt;p&gt;Vue에 대한 간단한 소개와 프로젝트 생성 방법 및 구조 설명&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
